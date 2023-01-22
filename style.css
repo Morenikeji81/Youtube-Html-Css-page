@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css2?family=Heebo:wght@300;400;500;600;900&family=Open+Sans:wght@400;500;700&family=Roboto:wght@300;400&display=swap");
+* {
+  font-family: "Heebo", sans-serif;
+  margin: 0;
+  padding: 0;
+}
+.Talk {
+  display: flex;
+}
+.image {
+  margin: 10px 15px;
+  border-radius: 20px;
+}
+.left {
+  margin: 10px 15px 10px 10px;
+}
+.Al {
+  font-size: 15px;
+}
+.one {
+  font-size: 14px;
+}
+.two {
+  font-size: 14px;
+}
+.gridsection {
+  display: grid;
+  grid-template-columns: repeat(4, 334px);
+}
+/* .Tech{
+    margin-bottom: 20px;
+} */
